@@ -1,4 +1,3 @@
-http://example.com/2025/08/08/~$-first-diary/
 http://example.com/2025/08/07/my-first-diary/
 http://example.com/2025/08/07/hello-world/
 http://example.com/
