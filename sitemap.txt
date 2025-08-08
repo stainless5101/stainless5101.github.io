@@ -1,3 +1,9 @@
+http://example.com/2019/01/02/%E5%8D%81%E5%85%AB%E5%B2%81/
+http://example.com/2019/07/07/%E8%A5%BF%E8%97%8F%E6%A2%A6/
+http://example.com/2024/01/24/WHY-NOT-ME/
 http://example.com/2025/08/07/my-first-diary/
 http://example.com/2025/08/07/hello-world/
 http://example.com/
+http://example.com/tags/%E6%97%A5%E8%AE%B0/
+http://example.com/tags/%E6%97%A5%E8%AE%B0/
+http://example.com/categories/%E7%94%9F%E6%B4%BB/
